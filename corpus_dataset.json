@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "context": "No período letivo a Biblioteca funciona de segunda a sexta-feira, das 8 horas até às 21 horas e 30 minutos; e aos sábados das 9 horas até ao meio-dia.\nNo período das férias, a Biblioteca funciona de segunda a sexta-feira das 8 horas até às 18 horas, e não funciona aos sábados."
+    },
+    {
+        "id": 2,
+        "context": "Todos os alunos e alunas são automaticamente inscritos em todas as bibliotecas da USP no ato da matrícula. Assim, não é necessário fazer a inscrição no balcão de atendimento."
+    },
+    {
+        "id": 3,
+        "context": "Para usar alguns serviços restritos à comunidade uspiana, é necessário apresentar o cartão USP físico ou a carteirinha digital, chamada também de e-card."
+    },
+    {
+        "id": 4,
+        "context": "As bibliotecas da USP possuem um aplicativo móvel, o “Bibliotecas USP”, para Android e IOS, que pode ser obtido no seu app store. Com ele é possível pesquisar nas 48 bibliotecas, procurar pelos materiais que deseja em todos os acervos da USP, reservar os materiais, renovar os que já estão com você e ver o seu histórico de empréstimos."
+    },
+    {
+        "id": 5,
+        "context": "Na nossa Biblioteca você pode entrar com sua bolsa e mochilas, sem problemas! E não temos mais escaninhos para guarda de material."
+    },
+    {
+        "id": 6,
+        "context": "Dentro da nossa Biblioteca você pode beber um café, um suco ou o que desejar! Só não pode ser bebida alcoólica! E também pode comer coisinhas gostosas durante o seu estudo. Só pedimos que sejam comidinhas preferencialmente secas para ajudar na manutenção da limpeza da Biblio!"
+    },
+    {
+        "id": 7,
+        "context": "Os acervos físicos das bibliotecas da USP podem ser consultados pelo catálogo Dedalus e Portal de Busca Integrada e acessados diretamente nas estantes das bibliotecas. Há livros, revistas, teses e dissertações, e muitos outros tipos de materiais."
+    },
+    {
+        "id": 8,
+        "context": "Os acervos digitais podem ser consultados pelo Portal de Busca Integrada, nas abas revistas eletrônicas e livros eletrônicos."
+    },
+    {
+        "id": 9,
+        "context": "A lista de recursos on-line disponíveis estão na homepage da Biblioteca e também no Portal de Busca Integrada, na aba bases de dados."
+    },
+    {
+        "id": 10,
+        "context": "O sistema de empréstimo é unificado, o que permite você emprestar materiais de qualquer biblioteca da USP. Para isso, é necessário apresentar o cartão USP, físico ou digital, ou ainda um documento com foto. Para saber os prazos de empréstimo, consulte um atendente do balcão ou site da Biblioteca, em Serviços."
+    },
+    {
+        "id": 11,
+        "context": "A renovação pode ser efetuada no balcão de atendimento ou on-line, pela WEB ou pelo aplicativo Bibliotecas USP). São permitidas 03 renovações seguidas para cada material, desde que não haja reserva."
+    },
+    {
+        "id": 12,
+        "context": "A reserva pode ser efetuada no balcão de atendimento ou on-line, pela WEB ou pelo aplicativo Bibliotecas USP). São permitidas 03 reservas simultaneamente para materiais distintos."
+    },
+    {
+        "id": 13,
+        "context": "A devolução do material emprestado pode ser efetuada no balcão de atendimento ou através da Caixa de Devolução 24 horas, disponível ao lado da entrada principal da Biblioteca."
+    },
+    {
+        "id": 14,
+        "context": "Aplica-se 01 dia de suspensão ao serviço de empréstimo domiciliar para cada dia de atraso na devolução de cada material emprestado. Fique atento: a pena de suspensão impede você de realizar um novo empréstimo em todas as bibliotecas da USP!"
+    },
+    {
+        "id": 15,
+        "context": "Se você não encontrou o livro no nosso acervo, podemos solicitá-lo para você em outra biblioteca! Podem ser materiais de bibliotecas da USP e de outras universidades, como a UNESP e UFSCar. O pedido de EEB não tem custo e é efetuado através de um formulário disponível no site da Biblioteca, no menu Serviços e Empréstimo entre Bibliotecas."
+    },
+    {
+        "id": 16,
+        "context": "Esse serviço localiza artigos de revistas impressas ou digitais nas bibliotecas da USP e em outras universidades nacionais e internacionais. O pedido de artigos pode ter algum custo, especialmente se solicitado para universidades internacionais. Para fazer o seu pedido acesse o formulário disponível no site da Biblioteca, no menu Serviços e Solicitação de Artigos. É possível também pedir por e-mail para a conta da Biblioteca!"
+    },
+    {
+        "id": 17,
+        "context": "A Biblioteca também pode te auxiliar com: Levantamento bibliográfico e revisão de literatura, orientações sobre plágio e uso da ferramenta Turnitin, normalização de documentos e trabalhos acadêmicos, elaboração de ficha catalográfica, cadastramento da produção científica, levantamento de indicadores de produção, orientações sobre ISBN e DOI, identificadores digitais e outras questões relacionadas à produção de publicações."
+    },
+    {
+        "id": 18,
+        "context": "O acervo de literatura fica no piso 2, no meio da sala de leitura."
+    },
+    {
+        "id": 19,
+        "context": "O acervo de livros fica no piso 1, onde estão reunidos os livros de graduação, pós-graduação e pesquisa."
+    },
+    {
+        "id": 20,
+        "context": "Os livros considerados raros ou especiais ficam no piso 1, à esquerda no final do salão. E há alguns em exposição no piso 2."
+    },
+    {
+        "id": 21,
+        "context": "As teses e as dissertações ficam no piso 3, no armário deslizante à direita. Lembre que todas as teses e dissertações também estão disponíveis em formato digital na Biblioteca Digital de Teses e Dissertações da USP."
+    },
+    {
+        "id": 22,
+        "context": "As revistas ficam no piso 3 e estão divididas em 2 armários deslizantes, um de cada lado do andar. Os nomes das revistas estão identificados nas estantes dos armários. Veja qual revista deseja e abra aquela estante deslizante."
+    },
+    {
+        "id": 23,
+        "context": "Há banheiros em todos os andares da Biblioteca e eles ficam ao final do corredor dos elevadores."
+    },
+    {
+        "id": 24,
+        "context": "Há bebedouros em todos os andares da Biblioteca e eles ficam no corredor que dá acesso aos banheiros. Lembre de trazer sua caneca, pois não temos mais copos plásticos! Estamos colaborando com a sustentabilidade do planeta!"
+    },
+    {
+        "id": 25,
+        "context": "Em cada um dos pisos da Biblioteca há 5 computadores abertos e disponíveis para os usuários. Eles podem ser usados para consultas aos catálogos, acesso aos recursos online da USP, para editar trabalhos e documentos, assistir aulas online e vídeos, navegar na internet e até jogar!"
+    },
+    {
+        "id": 26,
+        "context": "Nos pisos 1 e 3 há mesas e cadeiras para estudo em grupo. Nesses espaços abertos é possível conversar com ruído moderado. Caso queira salas fechadas de estudo em grupo, procure as salas com portas de vidro nos pisos 1, 2 e 3."
+    },
+    {
+        "id": 27,
+        "context": "No piso 2, à direita, há mesas individuais de estudo. Por ser um local de estudo individual, nesse espaço não deve haver ruído, apenas o mínimo necessário. Contamos com a sua colaboração!"
+    },
+    {
+        "id": 28,
+        "context": "A oficina de xadrez acontece no piso 3, todas as quinta-feiras, a partir das 19 horas. Temos tabuleiros e peças para emprestar!"
+    },
+    {
+        "id": 29,
+        "context": "A sala de leitura fica no piso 2, à esquerda. Por ser um espaço para leitura e predominantemente de estudo individual, nesse local o ruído deve ser o mínimo necessário."
+    },
+    {
+        "id": 30,
+        "context": "A sala de meditação fica no piso 2, à esquerda no final do salão. Pedimos que tire o sapato e guarde na sapateira ao lado! Aproveite para curtir."
+    }
+]
