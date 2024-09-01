@@ -21,34 +21,9 @@ To get started with this project, follow these steps:
 
 2. **Create virtual environments for different Python versions**:
 
-  - **Python 3.12 for Flask Server**:
-        ```sh
-        pyenv install 3.12.0
-        pyenv virtualenv 3.12.0 flask-env
-        pyenv activate flask-env
-        pip install -r requirements.txt
-        ```
-
-  - **Python 2.7 for Naoqi**:
-        ```sh
-        pyenv install 2.7.18
-        pyenv virtualenv 2.7.18 naoqi-env
-        pyenv activate naoqi-env
-        pip install naoqi
-        ```
-
-  - **Python 3.9 for Speech Recognition**:
-        ```sh
-        pyenv install 3.9.0
-        pyenv virtualenv 3.9.0 speech-env
-        pyenv activate speech-env
-        pip install -r requirements.txt
-        ```
-
-## Usage
-- **Run the Flask server** (Python 3.12)
-- **Use the script for NAO interaction** (Python 2.7)
-- **Use the script for speech recognition** (Python 3.9)
+  - **Python 3.12 for Flask Server**
+  - **Python 2.7 for Naoqi**
+  - **Python 3.9 for Speech Recognition**
 
 ## How It Works
 - **Question Input**: The system receives a question via the Flask server.
