@@ -46,9 +46,9 @@ To get started with this project, follow these steps:
         ```
 
 ## Usage
-- **Run the Flask server** (Python 3.12):
-- **Use the script for NAO interaction** (Python 2.7):
-- **Use the script for speech recognition** (Python 3.9):
+- **Run the Flask server** (Python 3.12)
+- **Use the script for NAO interaction** (Python 2.7)
+- **Use the script for speech recognition** (Python 3.9)
 
 ## How It Works
 - **Question Input**: The system receives a question via the Flask server.
