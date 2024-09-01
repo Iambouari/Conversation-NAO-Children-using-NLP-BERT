@@ -46,15 +46,15 @@ To get started with this project, follow these steps:
         ```
 
 ## Usage
--Run the Flask server** (Python 3.12):
--Use the script for NAO interaction (Python 2.7):
--Use the script for speech recognition (Python 3.9):
+- **Run the Flask server** (Python 3.12):
+- **Use the script for NAO interaction** (Python 2.7):
+- **Use the script for speech recognition** (Python 3.9):
 
 ## How It Works
--Question Input: The system receives a question via the Flask server.
--BERT Response: The question is processed using a BERT model to generate a concise answer.
--Corpus Analysis: The system analyzes the corpus to find the detailed context that best matches BERT's response.
--Response Comparison: BERT's concise answer is printed, and the detailed context is spoken by the NAO robot using the `tts.say` method.
+- **Question Input**: The system receives a question via the Flask server.
+- **BERT Response**: The question is processed using a BERT model to generate a concise answer.
+- **Corpus Analysis**: The system analyzes the corpus to find the detailed context that best matches BERT's response.
+- **Response Comparison**: BERT's concise answer is printed, and the detailed context is spoken by the NAO robot using the `tts.say` method.
 
 ## Example Interaction
 1. **Question**: "What is the capital of France?"
