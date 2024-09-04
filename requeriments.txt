@@ -1,0 +1,31 @@
+Python 3.12.5:
+pip
+pipwin
+numpy
+flask
+wheel
+time
+pyaudio
+pylance
+requests
+speechRecognition
+torch
+transformers
+huggingface
+Nome do modelo: "ArthurBaia/albertina-squad-v1.1-pt.br"
+
+Python 2.7:
+naoqi
+flask
+requests
+time
+
+Python 3.10:
+pyaudio
+time
+pylance
+flask
+requests
+speechRecognition
+
+
